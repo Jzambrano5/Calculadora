@@ -1,0 +1,16 @@
+#contenedor
+{
+    width: 50%;
+    margin: auto;
+    border: 1px;
+    padding: 20px;
+    border-style: solid;
+    background-color: aquamarine;
+}
+#Operaciones
+{
+    width: auto;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
